@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: MicrosoftSansSerif, 'Microsoft Sans Serif';
+        font-size: 120px;
+      }
+
+      .cls-2 {
+        fill: #123355;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="150" height="150" rx="20" ry="20"/>
+  <text class="cls-1" transform="translate(33.15 120.12)"><tspan x="0" y="0">S</tspan></text>
+</svg>
