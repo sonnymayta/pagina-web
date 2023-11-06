@@ -34,7 +34,7 @@ section {
 
 /* Seccion principal (hero) */
 .hero {
-  background-color: #B3C3D4;
+  background-color: white;
   min-height: 450px;
   text-align: center;
 }
